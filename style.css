@@ -48,7 +48,16 @@
 
 
 @media screen and (min-width: 1200px) {
-
+    .wareg{
+        background-color: aliceblue;
+        border: 0;
+        border-radius: 20px;
+        text-align: center;
+        padding-bottom: 10px;
+       width: 100px;
+       height: 45px;
+    
+    }
 
     .btn{
         background-color: aliceblue;
@@ -121,7 +130,9 @@
         border: 0;
         border-radius: 2px;
         text-align: center;
-        padding-top: 10px;
+        padding-top: 1px;
+
+     
     }
     .section{
         display: flex;
